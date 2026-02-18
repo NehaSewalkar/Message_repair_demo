@@ -1,0 +1,27 @@
+# Message Repair Template
+
+## Original Message
+[Insert the original message that needs repair here]
+
+## Issues Identified
+- Issue 1: [Describe the first issue]
+- Issue 2: [Describe the second issue]
+- Issue 3: [Describe the third issue]
+
+## Corrections Applied
+- Correction 1: [Describe what was fixed]
+- Correction 2: [Describe what was fixed]
+- Correction 3: [Describe what was fixed]
+
+## Repaired Message
+[Insert the corrected/repaired message here]
+
+## Notes
+- [Add any additional notes or context about the repair]
+- [Explain reasoning for specific changes if needed]
+
+## Metadata
+- Original Author: [Name]
+- Repair Date: 2026-02-18
+- Repair Tool Version: 1.0
+- Status: [Draft/Review/Approved]
